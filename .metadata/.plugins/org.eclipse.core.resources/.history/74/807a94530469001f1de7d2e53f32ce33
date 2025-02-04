@@ -1,0 +1,14 @@
+package com.javacollectiondemo;
+
+import java.util.Stack;
+
+public class StackDemo {
+
+	public static void main(String[] args) {
+
+		Stack s=new Stack();
+		s.add(10);
+		System.out.println(s);
+	}
+
+}
